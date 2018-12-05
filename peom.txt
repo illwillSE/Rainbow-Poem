@@ -1,2 +1,4 @@
 Roses are red
 Violets are blue
+People are stupid
+...and so are you
